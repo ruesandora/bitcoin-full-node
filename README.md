@@ -1,4 +1,4 @@
-<h1 align="center">Stride - Bitcoin Full Node Kurulumu </h1>
+<h1 align="center">Bitcoin Full Node Kurulumu </h1>
 
 <img src="https://media.giphy.com/media/vYMEkIhgfi7ooOFlkA/giphy.gif" width="1000" height="500">
 
